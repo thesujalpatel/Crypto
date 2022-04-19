@@ -1,6 +1,6 @@
 module.exports = {
     Client: {
-        Token: process.env.TOKEN || "OTI5NDExMTQ1NzE3MTQ1Njkw.Ydm7lA.RHnvFY5yUSQZpSyE4xed7xCZoyM",
+        Token: process.env.TOKEN,
         ClientID: "857649687083089931",
         ClientSecret: "JGJNjs2qdgtyOJK-oT5WSakqf5GKhCJg",
         SpotifyClientID: "",
