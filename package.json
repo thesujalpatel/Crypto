@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node indax.js"
   },
-  "author": "Its Gujju",
+  "author": "Sujal",
   "license": "ISC",
   "dependencies": {
     "@discordjs/voice": "^0.8.0",
